@@ -11,7 +11,7 @@ Takes one order image and produces a saved **Order** and its **linked, paid Invo
 | Part 1 design document (1–4 pages, no code) | [`design_document.md`](design_document.md), PDF in [`submission/design_document.pdf`](submission/design_document.pdf) |
 | Source code | `fakturama_full_workflow.py` and the `fakturama/` package (layout below) |
 | Setup instructions | Quick start below |
-| Annotated screenshots or recording | [`submission/annotated_execution.pdf`](submission/annotated_execution.pdf); raw frames and reports in `submission/evidence/` |
+| Annotated screenshots or recording | [Screen recording of a full run (Google Drive)](https://drive.google.com/file/d/1Nx7aQJUT-jpEOz_-Vhor9UZE61jBh4KI/view?usp=drive_link); [`submission/annotated_execution.pdf`](submission/annotated_execution.pdf); raw frames and reports in `submission/evidence/` |
 | What was skipped | Sections "Deviations" and "Limitations" below |
 | "3 more hours" question | Last section |
 
