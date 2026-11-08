@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+run_state.json
+automation.log
+*.log
+evidence/*.png
+.env
+
+# Local live captures, recovery receipts and isolated application data
+evidence/
+*.bak
+scripts/run_seq*.cmd
+
+# Removed first-iteration code; never publish it
+legacy/
